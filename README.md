@@ -2,6 +2,8 @@
 
 This application perform simple Arithmetic operations.
 
+Technology used: Flutter
+
 
 Screenshots:
 
