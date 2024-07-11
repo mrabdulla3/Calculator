@@ -1,6 +1,12 @@
 # calculator
 
-A new Flutter project.
+This application perform simple Arithmetic operations.
+
+
+Screenshots:
+
+![IMG_20240711_111641](https://github.com/mrabdulla3/Calculator/assets/129673628/d00e9258-7871-4052-98a1-55571e9a1f4c)
+
 
 ## Getting Started
 
